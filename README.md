@@ -29,8 +29,8 @@ There are several questions that are in the scope of this analysis:
 
 ## File Descriptions<a name="files"></a>
  
- Fraudulent job adverts.ipynb - jupyter notebook with exploratory data analysis and model
- fake_job_postings.csv - data, downloaded from kaggle.com
+1. Fraudulent job adverts.ipynb - jupyter notebook with exploratory data analysis and model
+2. fake_job_postings.csv - data, downloaded from kaggle.com
 
 ## Results <a name="results"></a>
 The main findings of this project can be found on corresponding [Medium post:](https://medium.com/@loster.jakub/exploring-fraudulent-job-offers-with-data-science-da293022590?sk=982fe0b9b09c94d55cc91df4ecdd9a67)
